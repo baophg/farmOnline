@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8b6abc66bb3584685c98ee8223bf3c, type: 3}
+  m_Name: Dua_hau
+  m_EditorClassIdentifier: 
+  plant_name: "D\u01B0a H\u1EA5u"
+  display_name: Dua_hau
+  Plant_icon: {fileID: 21300000, guid: f042df567a9622d4689957698bbf4632, type: 3}
+  plant_s: {fileID: 1329627566678783500, guid: 66cd05e24156b8842bbf03808f65a5dd, type: 3}
+  plant_m: {fileID: 4482952784420890124, guid: c0a23c9bf426d83479c8875e404c90eb, type: 3}
+  plant_l: {fileID: 5384270097193850319, guid: 8259e9371214fc24aa63efd2fa1beb97, type: 3}
+  plant_xl: {fileID: 1663614400496008199, guid: 61ad06ec4fc1d634d86723462dbeb9e6,
+    type: 3}
+  so_luong: 1
+  plant_time: 1

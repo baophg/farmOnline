@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8b6abc66bb3584685c98ee8223bf3c, type: 3}
+  m_Name: Ca_chua
+  m_EditorClassIdentifier: 
+  plant_name: "C\xE0 chua"
+  display_name: Ca_chua
+  Plant_icon: {fileID: 21300000, guid: a9315db480aca43409c41c95530aa67d, type: 3}
+  plant_s: {fileID: 1853865441151851567, guid: 206410a3c346f0742a79a60b3380c17f, type: 3}
+  plant_m: {fileID: 4551521095915264257, guid: 0360a134e33fd424f9d2be37ba4bceec, type: 3}
+  plant_l: {fileID: 3775251839496378645, guid: 08f9296407cb8284491baadfe281f7f0, type: 3}
+  plant_xl: {fileID: 6586217545436008945, guid: 0611411fab1dbbd48ba04a646fa290a7,
+    type: 3}
+  so_luong: 1
+  plant_time: 1

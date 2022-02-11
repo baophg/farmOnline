@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8b6abc66bb3584685c98ee8223bf3c, type: 3}
+  m_Name: Nho
+  m_EditorClassIdentifier: 
+  plant_name: Nho
+  display_name: Nho
+  Plant_icon: {fileID: 21300000, guid: 3de02e04d3ed77a4cb61c4b1ad9ad58e, type: 3}
+  plant_s: {fileID: 7634593312795749363, guid: 3f99c32ce284eb14c85e58df55b9b15d, type: 3}
+  plant_m: {fileID: 8344741858643268199, guid: eb2e9e80621b9b543b9a7372316bc8ff, type: 3}
+  plant_l: {fileID: 6534930201551708087, guid: ff57ef026a2d99240998a15714a5684d, type: 3}
+  plant_xl: {fileID: 8327029665191523253, guid: d713b3f29bee600499586c96269b7150,
+    type: 3}
+  so_luong: 1
+  plant_time: 1
