@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Farm_Scenes/Farm_scenes.unity
+- path: Assets/Scenes/Login_Scenes/Login_Scenes.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
